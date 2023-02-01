@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "Fullname": "Michael Joseph",
+      "phone": "0806547836",
+      "email": "michael@gmail.com",
+      "salary": "150000"
+    },
+    {
+      "id": 2,
+      "Fullname": "Williams Okoli",
+      "phone": "0809637485",
+      "email": "okoli@gmail.com",
+      "salary": "120000"
+    },
+    {
+      "id": 3,
+      "Fullname": "Amaka Timothy",
+      "phone": "0806547836",
+      "email": "timothy@gmail.com",
+      "salary": "200000"
+    },
+    {
+      "id": 4,
+      "Fullname": "Michael patrick",
+      "phone": "0806547836",
+      "email": "patrick@gmail.com",
+      "salary": "150000"
+    }
+  ]
+}
